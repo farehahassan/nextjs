@@ -3,7 +3,7 @@ import Herosection from '../components/Herosection';
 const About = () => {
   return (
     
-      <Herosection/>
+      <Herosection title={"OUR STORY"} imageUrl = {"/about1.svg"}/>
     
   );
 };
